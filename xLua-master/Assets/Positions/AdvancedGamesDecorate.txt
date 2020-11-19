@@ -1,0 +1,18 @@
+﻿#	启蒙游戏关卡装饰物			
+#	DecorateId	DecorateName	DecorateOffset
+#	int	string	string
+#	ids	资源名称	资源位置
+1	zym_jt	-255,71
+2	zym_jt	0,71
+3	zym_jt	-75,-58
+4	zym_jt	86,-58
+5	zym_jt	86,-58
+6	zym_jt	86,-58
+7	zym_jt	86,-58
+8	zym_jt	86,-58
+9	zym_jt	86,-58
+10	zym_jt	86,-58
+11	zym_jt	-255,-58
+12	zym_jt	86,-58
+13	zym_jt	86,-58
+14	zym_jt	86,-58

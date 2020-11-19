@@ -1,0 +1,6 @@
+﻿#	Lua表格生成			
+#	Id		LuaName	AssetPath
+#	int		string	string
+#	编号	备注	Lua名唯一性	资源相对路径
+	1000		Event	Assets/XLua/LuaScripts/Event/Event.lua.txt
+	1001		EventType	Assets/XLua/LuaScripts/Event/EventType.lua.txt
